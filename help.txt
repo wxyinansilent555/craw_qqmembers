@@ -1,0 +1,5 @@
+#使用的是火狐浏览器以及selenium插件，可直接在火狐插件中搜索selenium安装得到
+安装方法为：右上角应用程序菜单——>拓展与主题——>插件
+#使用的是python3.x
+#安装的库有pandas，selenium，beautiful soup，os，datetime，time
+#运行方式：命令行进入本目录，使用python+文件名.py打开
